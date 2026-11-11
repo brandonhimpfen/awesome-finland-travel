@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Finland, covering official tourism portals, rail transport, regional guides, national parks, and sauna culture.
 
+Finland is a pristine Nordic destination renowned for its thousands of lakes, deep pine forests, Arctic Lapland wilderness, and sauna culture. This list is intended for outdoor explorers, winter sports enthusiasts, northern lights chasers, and nature lovers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
